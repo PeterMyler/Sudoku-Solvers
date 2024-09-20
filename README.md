@@ -7,3 +7,5 @@ Better-Solver.py requires numpy
 ```
 pip install numpy
 ```
+
+I also made a youtube video on the basic solver: https://youtu.be/bdX0AfEvN0Q
